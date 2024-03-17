@@ -38,8 +38,5 @@
 	"type": "module",
 	"engines": {
 		"node": ">=20.0.0"
-	},
-	"resolutions": {
-		"rollup": "npm:@rollup/wasm-node"
 	}
 }

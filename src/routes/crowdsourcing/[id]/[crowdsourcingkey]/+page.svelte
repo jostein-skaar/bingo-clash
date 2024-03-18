@@ -18,7 +18,7 @@
 	<br />
 	<br />
 	<label>
-		About player:
+		About (who is this square about?):
 		<br />
 		<select name="playerId">
 			<option value="">Select player</option>
